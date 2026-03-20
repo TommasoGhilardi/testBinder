@@ -1,8 +1,23 @@
+# Core MNE and Math
 mne
 numpy
 scipy
 matplotlib
-PyQt5
-ipyevents
+
+# Core 3D Rendering
 pyvista
+pyvistaqt
+vtk
+
+# Jupyter Interactive UI
+ipywidgets
+ipyevents
+
+# Web Browser 3D Streaming (Trame Ecosystem)
 trame
+trame-vtk
+trame-vuetify
+trame-client
+
+# Qt fallback (just in case MNE checks for it)
+PyQt5
