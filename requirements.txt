@@ -1,9 +1,4 @@
 mne
 matplotlib
 ipympl
-pyvista
-trame
-trame-vtk
-trame-vuetify
 ipywidgets
-PyQt5
